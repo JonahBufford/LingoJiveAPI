@@ -2,6 +2,7 @@ let express = require('express');
 let router = express.Router();
 // For the Data Model
 let Post = require('../models/Post.js');
+let Reply = require('../models/Reply.js');
 
 
 function HandleError(response, reason, message, code){
@@ -19,6 +20,15 @@ router.get('/', (req, res) => {
 router.post('/', (req, res) => {
     let post = new Post(req.body);
     post.save((err) =>{
+        if(err)
+            sendStatus(500);
+        res.sendStatus(200);
+    })
+})
+
+router.post('/', (req, res) =>{
+    let reply = new Reply(req.body);
+    reply.save((err) =>{
         if(err)
             sendStatus(500);
         res.sendStatus(200);

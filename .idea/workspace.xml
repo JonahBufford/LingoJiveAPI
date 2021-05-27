@@ -10,14 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e753d21-c7b6-4c55-871e-2718bfd4908c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/LingoJiveAPI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LingoJiveAPI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/posts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +67,7 @@
       <workItem from="1621207021237" duration="416000" />
       <workItem from="1621331965440" duration="6670000" />
       <workItem from="1621663421081" duration="175000" />
-      <workItem from="1622109142410" duration="1775000" />
+      <workItem from="1622109142410" duration="2030000" />
     </task>
     <servers />
   </component>
